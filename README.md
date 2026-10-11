@@ -48,6 +48,9 @@ https://github.com/user-attachments/assets/62f8ebe0-da2a-4e33-9060-f7c73a760594
 
 ---
 
+HD video with sound :
+https://youtu.be/4-IConR8xNQ
+
 Note on commits: most commits were pushed from a single Git account because the code was written and tested directly on the Raspberry Pi, which was shared by the whole team. The commit history therefore does not reflect the individual contributions.
 
 *This README was written with the help of Claude (Anthropic).*
