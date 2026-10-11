@@ -4,7 +4,7 @@ Autonomous robot that follows a colored line using real-time image analysis: cam
 
 **Team project** (6 people, one week) built around several challenges to complete. The project is finished and the robot has since been dismantled.
 
-[![Robot following the line](docs/top.jpg)](https://youtu.be/4-IConR8xNQ)
+https://github.com/user-attachments/assets/da958711-b703-42c6-b6ed-576afc36ac42
 
    <p align="center">
      <img src="docs/side.jpg" width="45%">
